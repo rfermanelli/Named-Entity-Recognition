@@ -11,4 +11,4 @@ list_of_token = []
 for i in range (0, len(tokens)):
     list_of_token.append(tokens[i])
 
-print(list_of_token)
+print(sentence, "is mapping to", list_of_token)
